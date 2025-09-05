@@ -1,12 +1,20 @@
-# React + Vite
+Jogadores React ⚽
+Uma aplicação web moderna para gerenciamento e visualização de jogadores, desenvolvida com React e Vite.
+📋 Sobre o Projeto
+Este projeto é uma aplicação frontend que permite gerenciar informações de jogadores de futebol, incluindo funcionalidades para visualizar, adicionar, editar e remover jogadores do sistema.
+✨ Funcionalidades
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+📊 Listagem de jogadores
+➕ Cadastro de novos jogadores
+✏️ Edição de informações dos jogadores
+🗑️ Remoção de jogadores
+🔍 Busca e filtros
+📱 Interface responsiva
 
-Currently, two official plugins are available:
+🚀 Tecnologias Utilizadas
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+React - Biblioteca JavaScript para construção de interfaces
+Vite - Ferramenta de build rápida para desenvolvimento
+JavaScript/ES6+ - Linguagem de programação
+CSS3 - Estilização da aplicação
+ESLint - Linting para manter a qualidade do código
