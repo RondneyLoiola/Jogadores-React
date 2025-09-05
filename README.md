@@ -1,12 +1,19 @@
-# React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Uma aplicação web moderna para gerenciamento e visualização de jogadores, desenvolvida com React e Vite.<br><br>
+📋 Sobre o Projeto<br>
+Este projeto é uma aplicação frontend que permite gerenciar informações de jogadores de futebol, incluindo funcionalidades para visualizar, adicionar, editar e remover jogadores do sistema.<br><br>
+✨ Funcionalidades<br>
+- 📊 Listagem de jogadores<br>
+- ➕ Cadastro de novos jogadores<br>
+- ✏️ Edição de informações dos jogadores<br>
+- 🗑️ Remoção de jogadores<br>
+- 🔍 Busca e filtros<br>
+- 📱 Interface responsiva<br>
 
-Currently, two official plugins are available:
+🚀 Tecnologias Utilizadas<br><br>
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- React -> Biblioteca JavaScript para construção de interfaces<br>
+- Vite -> Ferramenta de build rápida para desenvolvimento<br>
+- JavaScript/ES6+ -> Linguagem de programação<br>
+- CSS3 -> Estilização da aplicação<br>
+- ESLint -> Linting para manter a qualidade do código<br>
